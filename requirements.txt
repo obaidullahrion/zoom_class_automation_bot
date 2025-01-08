@@ -1,0 +1,5 @@
+pillow
+pyautogui
+python-telegram-bot
+selenium
+speedtest-cli
